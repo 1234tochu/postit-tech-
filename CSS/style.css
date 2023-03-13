@@ -1,0 +1,94 @@
+nav{ margin-top: 30px;}
+
+.nature{
+    background-image: url(/img/Rectangle\ 7.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 540px;
+    
+    
+}
+.Postit-2{
+    background-image: url(/img/Rectangle\ 38.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 200%;
+}
+.lifestyle2{
+    background-image: url(/img/Rectangle\ 8.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+    min-width:  100%;
+}
+.Technology{
+    background-image: url(/img/Rectangle\ 9.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 228px;
+    min-width: 100%;
+}
+.sport{
+    background-image: url(/img/Rectangle\ 10.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 228px;
+    min-width: 100%;
+    
+}
+.date{
+    color: #BBBBBB;
+    margin-top:px;
+    ;
+}
+
+.postit{
+    list-style-type:none;
+    display: inline-block;
+   padding-left: 100px;
+
+}
+.backgroundimg{
+    background-image:url(/img/Rectangle\ 3\ \(1\).png);
+    background-size:cover;
+    background-repeat:no-repeat;
+    height: 700px;
+    padding-top: 100px;
+    color:61481C;
+    margin: left 1px;
+    
+    
+    
+}
+.lead{
+    font-size:0 ;
+}
+.orderlist{
+    display: inline-block;
+    margin-left:860px;
+}
+.input1{
+    display: inline-block;
+    padding-right: 2px;
+    text-align: center;
+    margin-left: 0%;
+
+}
+
+button{
+    background-color:rgb(126, 152, 222);
+    color: white;
+    font-size:20px;
+    border-radius:8%;
+    border: 0;
+    background-blend-mode: overlay;
+    text-align: center;
+
+}
+
+.list{
+    display: inline-block;
+    margin-left: 15px;
+    
+    
+}
